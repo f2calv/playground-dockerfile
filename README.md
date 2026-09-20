@@ -1,5 +1,9 @@
 # Dockerfile Playground
 
+> [!IMPORTANT]
+> This repository has been retired and is no longer maintained. It is retained for historical
+> reference and should not be treated as supported or secure production guidance.
+
 Different Dockerfiles with different installation scenarios of the .NET SDK.
 
 Various examples include;
